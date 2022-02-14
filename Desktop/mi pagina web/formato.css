@@ -3,7 +3,7 @@
     padding: 0%;
     background: #D19317;
     width: 100%;
-    max-width: 1000px;
+    max-width: 2000px;
     margin: auto;
 }
 
@@ -141,3 +141,4 @@ left: -8em
     border-style: solid;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
+
